@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+   <center>
+      <name>Triangle Yoga</name>
+      <location>3326 Durham Chapel Hill Blvd SuiteA120</location>
+      <lat>35.932495</lat>
+      <long>-79.055477</long>
+   </center>
+   <center>
+      <name>Thousand Petals Yoga</name>
+      <location>200 Britton Dr Chapel Hill, NC 27516</location>
+      <lat>35.9598</lat>
+      <long>-79.109496</long>
+   </center>
+   <center>
+      <name>Franklin Street Yoga Center</name>
+      <location>431 W Franklin St Chapel Hill, NC 27516</location>
+      <lat>35.910603</lat>
+      <long>-79.063009</long>
+   </center>
+    <center>
+      <name>Red Room Hot Yoga Studio</name>
+      <location>300 Market St #110 Chapel Hill, NC </location>
+      <lat>35.880446</lat>
+      <long>-79.064951</long>
+   </center>
+       <center>
+      <name>Hatha House Jo-Anna Spector</name>
+      <location>5216 Old Chapel Hill Rd Durham, NC 27707</location>
+      <lat>35.952509</lat>
+      <long>-79.003200</long>
+   </center>
+          <center>
+      <name>Syncstuodio</name>
+      <location>6815 Fayetteville St #101 Durham, NC 27713</location>
+      <lat>35.914703</lat>
+      <long>-78.937925</long>
+    </center>
+           <center>
+      <name>Bikram's Yoga Raleigh</name>
+      <location>9650 Strickland Rd #153 Raleigh, NC 27615</location>
+      <lat>35.911982</lat>
+      <long>-78.613835</long>
+    </center>
+    <center>
+      <name>Judith Valerie Yoga</name>
+      <location>5315 Creedmoor Rd Raleigh, NC 27612</location>
+      <lat>35.863584</lat>
+      <long>-78.658467</long>
+    </center>
+    <center>
+      <name>Integral Yoga Studtio</name>
+      <location>4000 Bear Cat Way #102 Morrisville, NC 27560</location>
+      <lat>35.828292</lat>
+      <long>-78.820197</long>
+    </center>
+    <center>
+      <name>Arrichion</name>
+      <location>8606 Jersey Ct Raleigh, NC 27617</location>
+      <lat>35.897850</lat>
+      <long>-78.755652</long>
+    </center>
+        <center>
+      <name>Open Door yoga</name>
+      <location>745 W Johnson St Raleigh, NC 27603</location>
+      <lat>35.802122</lat>
+      <long>-78.650939</long>
+    </center>
+         <center>
+      <name>Vault yoga</name>
+      <location>234 Fayetteville St Raleigh, NC 27601</location>
+      <lat>35.778135</lat>
+      <long>-78.638922</long>
+    </center>
+</document>

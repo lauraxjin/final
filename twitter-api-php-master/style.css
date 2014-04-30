@@ -1,0 +1,29 @@
+h2 {
+     width:30%;
+     padding:10px;
+     -moz-border-radius: 20px;
+     -webkit-border-radius: 20px;
+     border-radius: 20px;
+     background-color: #289C28;
+     color: white;
+    }
+    
+h2:after {
+     content: "";
+     position: absolute;
+     bottom: -20px;
+     left: 30px;
+     width: 0;
+     height: 0;
+     border-width: 10px;
+     border-style: solid;
+     border-color: #048753 #048753 transparent transparent;
+     }
+     
+.tweet {
+    border: 1px;
+    border-color: green;
+     width:30%;
+     background: white;
+     color:green;
+}
